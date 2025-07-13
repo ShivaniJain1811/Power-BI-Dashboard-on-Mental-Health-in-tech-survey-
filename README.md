@@ -8,7 +8,7 @@ This Power BI dashboard explores mental health survey data from the tech industr
 - Power Query (for data transformations)
 
 ## 📁 Files Included
-- `mental_health_dashboard.pbix`: Fully interactive Power BI report
+- `https://1drv.ms/u/c/9ee0b891366d7cb1/EWHtcsDSgHFDhbDxXVCRKPMBWCyEVsWpowX6cSJtLBtxjQ?e=QNHNdG`: Fully interactive Power BI report
 - `Dashboard_Screenshots/Overview.png`: Snapshot of dashboard
 
 ## 🔍 Key Insights
