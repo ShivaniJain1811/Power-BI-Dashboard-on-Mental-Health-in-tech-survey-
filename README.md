@@ -2,7 +2,7 @@
 
 This Power BI dashboard explores mental health survey data from the tech industry. It provides insights into work interference, diagnosis rates, remote work impact, and how mental health varies by gender and company size.
 
-##Datatset
+## Dataset
 -https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
 ## 📊 Tools Used
